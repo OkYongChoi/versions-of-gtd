@@ -1,4 +1,4 @@
-# versions-of-gtd
+# Versions of Gradient Temporal Difference Learning
 Implemntation of the algorithm proposed in the paper :
 Lee, D., Lim, H. D., Park, J., & Choi, O. (2021). Versions of Gradient Temporal Difference Learning.
 
